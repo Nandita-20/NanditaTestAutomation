@@ -26,7 +26,7 @@ public class ArraylistwithSetdemo { //remove dulpicate elements from array list
 		ArrayList<Integer> arr1=new ArrayList<>(linkedhashset);
 		
 		System.out.println("ArrayList with unique values" +arr1);
-		
+                System.out.println("ArrayList with unique values" +arr1);
 		
 	}
 }
